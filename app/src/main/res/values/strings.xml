@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Typeface</string>
+    <string name="alexBrush">Texto con Font Alex Brush - Regular</string>
+    <string name="granHotel">Texto con Font Gran Hotel - Regular</string>
+    <string name="pacifico">Texto con Font Pacífico</string>
+    <string name="alexBrushWithFontFamily">Texto con Font Alex Brush - Regular usando solamente la propiedad "Font Family" en el
+    activity_main</string>
+</resources>
